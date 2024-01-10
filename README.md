@@ -1,6 +1,6 @@
 # CS
-# This is a website I enjoy visiting: https://www.bmwmotorcycles.com/en/home.html
-# This is an image of my cat. ![DSC_0014](https://github.com/AlexGuittet/CS/assets/156182640/fa8816c2-7231-44c4-98ce-924dadfe90b3)
+### This is a website I enjoy visiting: https://www.bmwmotorcycles.com/en/home.html
+### This is an image of my cat. ![DSC_0014](https://github.com/AlexGuittet/CS/assets/156182640/fa8816c2-7231-44c4-98ce-924dadfe90b3)
 
  Motorcycle|MSRP
 |----------|----------|
