@@ -11,3 +11,5 @@
 | S1000RR  | $25,980  |  
 |          |          |
 | Hayabusa | $19,599  |
+
+> Sweden is a real place.
