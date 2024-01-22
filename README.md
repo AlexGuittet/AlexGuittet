@@ -25,6 +25,8 @@ Four
 ___
 Five
 
+~~This is an example of strikethrough.~~
+
 # Woe
 ## Woe
 ### Woe
